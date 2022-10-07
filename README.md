@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Imar Abreu Díaz</h1>
-<h3 align="center">Software Engineer from Spain :es:. Now working as Frontend Developer at Runroom</h3>
+<img src="header.png"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izm20" alt="izm20" /></a> </p>
+<h3 align="center">Software Developer from Spain :es:. Now working as Frontend Developer at Runroom</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
